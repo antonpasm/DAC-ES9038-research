@@ -1,0 +1,3 @@
+20:17:29 : Device ID:0x444 
+20:17:29 : Device flash Size : 32KBytes
+20:17:29 : Device family :STM32F030x4/F030x6
